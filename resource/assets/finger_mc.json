@@ -1,0 +1,1 @@
+{"file":"finger_tex.png","res":{"newAnimation_0":{"x":1,"y":1,"w":136,"h":148},"newAnimation_1":{"x":139,"y":1,"w":136,"h":137}},"mc":{"finger":{"frameRate":2,"events":[],"frames":[{"duration":1,"y":-81,"res":"newAnimation_0","x":-74},{"duration":1,"y":-71,"res":"newAnimation_1","x":-75}],"labels":[{"end":2,"name":"newAnimation","frame":1}]}}}

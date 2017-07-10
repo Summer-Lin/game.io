@@ -1,0 +1,107 @@
+{
+	"groups": [
+		{
+			"keys": "tree7_ske_json,tree6_ske_json,tree5_ske_json,tree4_ske_json,tree3_ske_json,tree2_ske_json,tree1_ske_json,main_json,huwei_tex_png,huwei_tex_json,tree_tex_png,tree_tex_json,huwei_ske_json,finger_tex_png,chest_tex_png,chest_tex_json,chest_ske_json,finger_mc_json,harvest_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/huwei_tex.json",
+			"type": "json",
+			"name": "huwei_tex_json"
+		},
+		{
+			"url": "assets/huwei_tex.png",
+			"type": "image",
+			"name": "huwei_tex_png"
+		},
+		{
+			"url": "assets/main.json",
+			"type": "sheet",
+			"name": "main_json",
+			"subkeys": "album,bg,button,cb_0,cb_1,cb_2,cb_3,cb_4,cb_5,cb_6,cb_7,cb_8,cb_9,chanzi,combo_bg,default_logo,dialog_box,icon_chan,icon_info,icon_jiang,icon_shui,icon_sun,jindu_bg,jindutiao,shuihu"
+		},
+		{
+			"url": "assets/tree1_ske.json",
+			"type": "json",
+			"name": "tree1_ske_json"
+		},
+		{
+			"url": "assets/tree2_ske.json",
+			"type": "json",
+			"name": "tree2_ske_json"
+		},
+		{
+			"url": "assets/tree3_ske.json",
+			"type": "json",
+			"name": "tree3_ske_json"
+		},
+		{
+			"url": "assets/tree4_ske.json",
+			"type": "json",
+			"name": "tree4_ske_json"
+		},
+		{
+			"url": "assets/tree5_ske.json",
+			"type": "json",
+			"name": "tree5_ske_json"
+		},
+		{
+			"url": "assets/tree6_ske.json",
+			"type": "json",
+			"name": "tree6_ske_json"
+		},
+		{
+			"url": "assets/tree7_ske.json",
+			"type": "json",
+			"name": "tree7_ske_json"
+		},
+		{
+			"url": "assets/tree_tex.png",
+			"type": "image",
+			"name": "tree_tex_png"
+		},
+		{
+			"url": "assets/tree_tex.json",
+			"type": "json",
+			"name": "tree_tex_json"
+		},
+		{
+			"url": "assets/huwei_ske.json",
+			"type": "json",
+			"name": "huwei_ske_json"
+		},
+		{
+			"url": "assets/chest_ske.json",
+			"type": "json",
+			"name": "chest_ske_json"
+		},
+		{
+			"url": "assets/chest_tex.json",
+			"type": "json",
+			"name": "chest_tex_json"
+		},
+		{
+			"url": "assets/chest_tex.png",
+			"type": "image",
+			"name": "chest_tex_png"
+		},
+		{
+			"url": "assets/finger_tex.png",
+			"type": "image",
+			"name": "finger_tex_png"
+		},
+		{
+			"url": "assets/finger_mc.json",
+			"type": "json",
+			"name": "finger_mc_json"
+		},
+		{
+			"url": "assets/harvest.json",
+			"type": "sheet",
+			"name": "harvest_json",
+			"subkeys": "defen,famous,harvest_bg,high_score,hs_0,hs_1,hs_2,hs_3,hs_4,hs_5,hs_6,hs_7,hs_8,hs_9,icon_money,item_bg,light,lingqu,medal,prize_btn,sc_0,sc_1,sc_2,sc_3,sc_4,sc_5,sc_6,sc_7,sc_8,sc_9,star,star_bg,tm_0,tm_1,tm_2,tm_3,tm_4,tm_5,tm_6,tm_7,tm_8,tm_9,tm_d,tm_h,tm_l,tm_m,tm_s"
+		}
+	]
+}
